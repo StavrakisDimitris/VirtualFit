@@ -110,8 +110,3 @@ public class MainForm extends JFrame {
         // Back to admin logic here
     }
 }
-```
-
-In this version
-
-, I've kept the method and variable names the same as in the original code while making adjustments to the indentation and formatting for improved readability.
