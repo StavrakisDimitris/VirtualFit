@@ -88,4 +88,3 @@ public class Create_Offer extends javax.swing.JFrame {
         log_out1.setForeground(new java.awt.Color(255, 255, 255));
         log_out1.setText("Logout");
         log_out1.setBorderPainted(false);
-        log_out1.addActionListener.
